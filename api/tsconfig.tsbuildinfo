@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/auth.ts","./src/controllers/channel.ts","./src/controllers/video.ts","./src/db/db.ts","./src/middlewares/auth.ts","./src/routes/routes.ts","./src/types/express.d.ts"],"version":"5.7.2"}
